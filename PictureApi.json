@@ -1,0 +1,12 @@
+[
+  {
+    "name": "Bird",
+    "author": "Arafath Sensei",
+    "url": "https://raw.githubusercontent.com/arafatrahat94/ExclusiveWallsApi/main/Nature/bird.jpg",
+    "dimensions": "2160x3840",
+    "collections": "Nature",
+    "copyright": "Unknown",
+    "downloadable": false,
+    "credit": "https://unsplash.com/@arafath"
+  }
+]
