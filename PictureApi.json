@@ -1,5 +1,32 @@
 [
   {
+    "name": "Cafe",
+    "author": "Arafath Sensei",
+    "url": "https://raw.githubusercontent.com/chobegraphy/PictureStorage-1/main/cafe.jpg",
+    "dimensions": "1726x3840",
+    "collections": "Urban,Featured",
+    "copyright": "https://www.facebook.com/chobegraphy/",
+    "downloadable": true
+  },
+  {
+    "name": "Butterfly",
+    "author": "Arafath Sensei",
+    "url": "https://raw.githubusercontent.com/chobegraphy/PictureStorage-1/main/butterfly.jpg",
+    "dimensions": "2160x3840",
+    "collections": "Nature,Butterfly, Featured",
+    "copyright": "https://www.facebook.com/chobegraphy/",
+    "downloadable": true
+  },
+  {
+    "name": "Artistic Village",
+    "author": "Arafath Sensei",
+    "url": "https://raw.githubusercontent.com/chobegraphy/PictureStorage-1/main/artistic%20village.jpg",
+    "dimensions": "1726x3840",
+    "collections": "Artistic,Ai, Featured",
+    "copyright": "https://www.facebook.com/chobegraphy/",
+    "downloadable": true
+  },
+  {
     "name": "Artistic train",
     "author": "Arafath Sensei",
     "url": "https://raw.githubusercontent.com/chobegraphy/PictureStorage-1/main/artistic%20train.jpg",
