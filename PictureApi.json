@@ -1,10 +1,18 @@
 [
   {
+    "name": "Artistic train",
+    "author": "Arafath Sensei",
+    "url": "https://raw.githubusercontent.com/chobegraphy/PictureStorage-1/main/artistic%20train.jpg",
+    "dimensions": "1840*4096",
+    "collections": "Artistic,Ai, Featured",
+    "copyright": "https://www.facebook.com/chobegraphy/",
+    "downloadable": true
+  },
+  {
     "name": "Fox",
     "author": "Arafath Sensei",
     "url": "https://raw.githubusercontent.com/chobegraphy/PictureStorage-1/main/fox.jpg",
     "dimensions": "1726*3840",
-
     "collections": "Artistic,Ai, Featured",
     "copyright": "https://www.facebook.com/chobegraphy/",
     "downloadable": true
