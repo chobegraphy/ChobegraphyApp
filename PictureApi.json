@@ -97,5 +97,14 @@
     "collections": "Artistic,Ai, Featured",
     "copyright": "https://www.facebook.com/chobegraphy/",
     "downloadable": true
+  },
+  {
+    "name": "jhakanaka.png",
+    "author": "Chobegraphy",
+    "url": "https://raw.githubusercontent.com/chobegraphy/PictureStorage-1/main/jhakanaka-1736961906530.png",
+    "dimensions": "4368 x 2448",
+    "collections": "",
+    "copyright": "",
+    "downloadable": false
   }
 ]
